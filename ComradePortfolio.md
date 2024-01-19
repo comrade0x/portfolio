@@ -5,6 +5,13 @@
 
 ## Main achievements 
 
+### Claystack
+
+- Made my way to the top ambassadors and was responsible for onboarding newcomers. Designed new contests & checked submissions. Have created a lot of content durgin the program: https://drive.google.com/drive/folders/1jVVMPbxVmJJKugtxgXrL8YPtrtFLoIDB?usp=sharing
+(Until a scandal broke out in the project and half of the ambassadors were kicked out of the project)
+- Was responsible for creation of educational materials for newbies. You can see the example by following this link: https://drive.google.com/file/d/1dY9FcDxJokFeCePFzRxUP6v4_9N_yVPz/view?usp=sharing
+- Medium translations and articles: https://medium.com/@vlad.007.forever
+
 ### Opyn & Squeeth
 
 - A series of educational materials for newbies: https://youtube.com/playlist?list=PL2qqq0Kaa_PWl2i13YYZMFJvag_VEVxCh
@@ -23,13 +30,6 @@ As I see it, community development is done for monetary reasons. It is very impo
 - Music: https://youtu.be/vP_X3ZdriEg
 - Overviewal video about the community program: https://youtu.be/bo1WY6Z-FSg
 
-### Claystack
-
-- Was responsible for creation of educational materials for newbies. You can see the example by following this link: https://drive.google.com/file/d/1dY9FcDxJokFeCePFzRxUP6v4_9N_yVPz/view?usp=sharing
-- Medium translations and articles: https://medium.com/@vlad.007.forever
-- Made my way to the top ambassadors and was responsible for onboarding newcomers. Have created a lot of content durgin the program: https://drive.google.com/drive/folders/1jVVMPbxVmJJKugtxgXrL8YPtrtFLoIDB?usp=sharing
-(Until a scandal broke out in the project and half of the ambassadors were kicked out of the project)
-
 
 ### Stickers&Emojis for Euler and Swivel
 
@@ -39,6 +39,4 @@ As I see it, community development is done for monetary reasons. It is very impo
 
 - https://drive.google.com/drive/folders/1wZtGlMPqSgZhtvYjQ6pqX1xFhl2Sgs6l?usp=sharing
 
-### Outside of crypto 
-- My kung fu is music. Here you can see my some examples: https://www.instagram.com/music_pump/
 
