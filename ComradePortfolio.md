@@ -12,6 +12,10 @@
 - Was responsible for creation of educational materials for newbies. You can see the example by following this link: https://drive.google.com/file/d/1dY9FcDxJokFeCePFzRxUP6v4_9N_yVPz/view?usp=sharing
 - Medium translations and articles: https://medium.com/@vlad.007.forever
 
+### Goldfinch & Cega
+
+- Used to be a Discord moderator helping out to understand the product
+
 ### Opyn & Squeeth
 
 - A series of educational materials for newbies: https://youtube.com/playlist?list=PL2qqq0Kaa_PWl2i13YYZMFJvag_VEVxCh
